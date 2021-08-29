@@ -1,0 +1,5 @@
+*** Settings ***
+Library           requests
+Library           RequestsLibrary
+Library           Collections
+Library           string
